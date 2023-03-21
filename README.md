@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![hello-world](./image/hello-world.png)
+![header](./header.png)
 <h1 align="center">Hi 👋, I'm UtakataKyosui</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
