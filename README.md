@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](./header.png)
 <h1 align="center">Hi 👋, I'm UtakataKyosui</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h3 align="center">プログラミングやってて**Next.js**でサイト作ってるただの大学生</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
