@@ -59,4 +59,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<style>
+  body {
+    background-color: cyan;
+  }
+</style>
 
