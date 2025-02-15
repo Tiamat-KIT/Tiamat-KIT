@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/utakatakyosui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utakatakyosui" height="30" width="40" /></a>
+<a href="https://misskey.systems/@Utakata" target="blank"><img align="center" src="https://assets.misskey-hub.net/public/icon.png" alt="utakatakyosui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
