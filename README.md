@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <a href="https://misskey.systems/@Utakata" target="blank"><img align="center" src="https://assets.misskey-hub.net/public/icon.png" alt="utakatakyosui" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Main Languages:</h2>
+<h2 align="left">Languages:</h2>
+<h3 align="left">Main</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="left">Other Languages:</h3>
+<h3 align="left">Other</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
