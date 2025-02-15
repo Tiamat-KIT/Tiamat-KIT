@@ -31,6 +31,12 @@ Here are some ideas to get you started:
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+  <a href="https://www.rust-lang.org/ja" target="_blank" rel="noreferrer">
+    <img src="https://prev.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/>
+  </a>
+  <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
+    <img src="https://webassembly.org/favicon.ico" alt="wasm" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
