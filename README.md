@@ -58,10 +58,3 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
-
-<style>
-  body {
-    background-color: cyan;
-  }
-</style>
-
