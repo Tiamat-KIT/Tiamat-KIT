@@ -13,6 +13,11 @@
   <img align="center" src="https://assets.misskey-hub.net/public/icon.png" alt="utakatakyosui" height="30" width="40" />
 </a>
 </p>
+<p align="left">
+<a href="https://misskey-star-night.org/@UtakataKyosui" target="blank">
+  <img align="center" src="https://assets.misskey-hub.net/public/icon.png" alt="utakatakyosui" height="30" width="40" />
+</a>
+</p>
 
 ## Languages & Frameworks
 
