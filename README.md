@@ -10,12 +10,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://misskey.systems/@Utakata" target="blank">
-  <img align="center" src="https://assets.misskey-hub.net/public/icon.png" alt="utakatakyosui" height="30" width="40" />
+  <img align="center" src="https://storage.misskey.systems/storage/files/489b622c-bf02-49a6-a7cc-c67ba1f0930f.png" alt="utakatakyosui" height="30" width="40" />
 </a>
 </p>
 <p align="left">
 <a href="https://misskey-star-night.org/@UtakataKyosui" target="blank">
-  <img align="center" src="https://assets.misskey-hub.net/public/icon.png" alt="utakatakyosui" height="30" width="40" />
+  <img align="center" src="https://pub-83d43dd575744f20970bf4cfaf2abf1c.r2.dev/starrynight_icon.png" alt="utakatakyosui" height="30" width="40" />
 </a>
 </p>
 
