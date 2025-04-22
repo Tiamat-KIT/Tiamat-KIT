@@ -43,7 +43,7 @@
     <h3>Main Frameworks</h3>
     <p>
       <img src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="nextjs" width="40" height="40"/> Next.js  
-      <img src="https://raw.githubusercontent.com/loco-rs/loco/main/assets/logo.svg" alt="loco" width="40" height="40"/> Loco  
+      <img src="https://avatars.githubusercontent.com/u/151030972?s=48&v=4" alt="loco" width="40" height="40"/> Loco  
     </p>
   </div>
 
