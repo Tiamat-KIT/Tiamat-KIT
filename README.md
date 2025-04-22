@@ -43,7 +43,7 @@
     <h3>Main Frameworks</h3>
     <p>
       <img src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="nextjs" width="40" height="40"/> Next.js  
-      <img src="https://avatars.githubusercontent.com/u/151030972?s=48&v=4" alt="loco" width="40" height="40"/> Loco  
+      <img src="https://loco.rs/icon.svg" alt="loco" width="40" height="40"/> Loco  
     </p>
   </div>
 
@@ -53,7 +53,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React  
       <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> Firebase  
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> Unity  
-      <img src="https://tauri.app/og-default.png" alt="tauri" width="40" height="40"/> Tauri  
+      <img src="https://v2.tauri.app/_astro/logo_light.Br3nqH4L.svg" alt="tauri" width="40" height="40"/> Tauri  
     </p>
   </div>
 
