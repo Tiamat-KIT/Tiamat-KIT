@@ -53,7 +53,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React  
       <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> Firebase  
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> Unity  
-      <img src="https://v2.tauri.app/_astro/logo_light.Br3nqH4L.svg" alt="tauri" width="40" height="40"/> Tauri  
+      <img src="https://v2.tauri.app/_astro/logo_light.Br3nqH4L.svg" alt="tauri" width="120" height="40"/> Tauri  
     </p>
   </div>
 
